@@ -1,0 +1,9 @@
+Random notes file
+==================
+
+- Remember to buy milk
+- Meeting at 3pm
+- Idea: build a widget that does something useful
+- TODO: refactor the thing later
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
